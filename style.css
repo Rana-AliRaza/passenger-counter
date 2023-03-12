@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-image: url("station.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+
+.container{
+    font-size: 30px;
+    font-weight: 100px;
+    text-align: center;
+    
+}
+
+button{
+    padding: 20px;
+    background-color: rgb(123, 4, 4);
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+#save{
+    background-color: green;
+}
+
